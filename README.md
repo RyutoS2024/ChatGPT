@@ -25,3 +25,11 @@ pip install -r requirements.txt
 ```bash
 deactivate
 ```
+
+## Whisper APIを使って音声ファイルをテキストファイルに変換する方法
+
+1. API Keyを設定する
+2. 音声ファイルをMP3フォルダにおく
+3. テキストファイル用のMDフォルダを作成する
+4. script.pyを実行する
+
